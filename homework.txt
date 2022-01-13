@@ -1,0 +1,5 @@
+1. Its take me about 14-16 hours 
+3. At each session the user is asked if he wants to start from scratch, or use the existing DATA,
+If I chose to continue with the existing DATA I would pull it from a JSON or DB into an array and start running the app
+4. In order to avoid incest, I would save the parents' ID under each child and in each creation of a new pixel
+make sure there is no blood connection between the pixels I received that are supposed to create a new pixel
